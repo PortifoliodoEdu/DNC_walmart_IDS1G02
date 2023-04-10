@@ -25,6 +25,8 @@ Também é importante ressaltar/explicar passagens complexas ou insights que voc
 ### Sobre os Dados
 O Arquivo `Walmart.csv` esta disponibilizado publicamente em [Kaggle](Dataset: https://www.kaggle.com/yasserh/walmart-dataset) website.
 
+Google Colab: https://drive.google.com/file/d/1eb_SeNkDGuoJm6tL2pSO7SjeNRLP8dT5/view?usp=sharing
+
 
 ### Dependencies (Editar depois)
 To run this project successfully, one needs to install and import the following dependencies:
